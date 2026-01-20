@@ -7,7 +7,7 @@
 
 📄 Did research on LLM interpretability, with work accepted at NeurIPS MechInterp workshop
 
-🌐 Portfolio: akamel.dev
+🌐 Portfolio: [akamel.dev](https://akamel.dev)
 
 
 <!--
